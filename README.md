@@ -13,6 +13,6 @@ Repozytorium stworzone na potrzeby zajec laboratoryjnych z Inzynierii Oprogramow
 
 ### Opis zamierzonej funkcjonalnosci `Feature`
 
-Do uzupelnienia
+Po uruchomieniu poza zwyklym dzialaniem programu wyswietlamy powiadomienie `New Feature!`
 
 Last edit 2018-10-31
