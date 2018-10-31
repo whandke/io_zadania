@@ -1,4 +1,4 @@
-# io_zadania
+# IO Zadania
 
 ### Opis
 
