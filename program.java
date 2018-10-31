@@ -5,5 +5,6 @@ public class HelloWorld {
 		            System.out.println("Hello, World");
 			    	//Komentarz nr 2
 			    System.out.println("New feature!");
+			    	//Komentarz nr 3
 	}
 }
