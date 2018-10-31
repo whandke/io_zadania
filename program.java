@@ -1,6 +1,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		//Dodalem nowe komentarze
 				//Komentarz nr 1
 		            System.out.println("Hello, World");
 			    	//Komentarz nr 2
