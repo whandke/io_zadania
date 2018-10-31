@@ -10,4 +10,9 @@ Repozytorium stworzone na potrzeby zajec laboratoryjnych z Inzynierii Oprogramow
 
 - Wojciech Handke
 
+
+### Opis zamierzonej funkcjonalnosci `Feature`
+
+Do uzupelnienia
+
 Last edit 2018-10-31
