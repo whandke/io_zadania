@@ -9,3 +9,5 @@ Repozytorium stworzone na potrzeby zajec laboratoryjnych z Inzynierii Oprogramow
 - Karol Krakowski
 
 - Wojciech Handke
+
+Last edit 2018-10-31
