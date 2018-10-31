@@ -10,4 +10,9 @@ Repozytorium stworzone na potrzeby zajec laboratoryjnych z Inzynierii Oprogramow
 
 - Wojciech Handke
 
+
+### Opis zamierzonej funkcjonalnosci `Feature`
+
+Po uruchomieniu poza zwyklym dzialaniem programu wyswietlamy powiadomienie `New Feature!`
+
 Last edit 2018-10-31
